@@ -7,8 +7,7 @@
 ## Installation
 Run These Commands To Run The Installer:  
 ```
-git clone https://github.com/techcoder20/MacOSBigSurThemeConverter.git ~/MacOSBigSurThemeConverter
-~/MacOSBigSurThemeConverter/install.sh
+git clone https://github.com/techcoder20/MacOSBigSurThemeConverter
 ```
 **OR**  
 
